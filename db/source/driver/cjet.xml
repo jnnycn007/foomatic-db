@@ -1,6 +1,6 @@
 <driver id="driver/cjet">
   <name>cjet</name>
-  <url>ftp://metalab.unc.edu/pub/Linux/system/printing/cjet089.lsm</url>
+  <url>https://github.com/OpenPrinting/legacy-drivers/tree/main/cjet</url>
   <thirdpartysupplied />
   <execution>
     <filter />
